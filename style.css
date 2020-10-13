@@ -1,0 +1,212 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+nav{
+	background: white;
+	height: 90px;
+	width: 100%;
+	font-family: Montserrat;
+}
+label.logo{
+	color: black;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+}
+nav .logo a{
+	color: black;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color: black;
+	font-size: 17px;
+	text-transform: uppercase;
+	padding: 7px 13px;
+}
+.logo a:hover{
+	text-shadow: 3px 3px 10px black;
+}
+nav ul li a:hover{
+	color: white;
+	background-color: black;
+	font-weight: bold;
+}
+section h3{
+	background-color: black;
+	color: white;
+	padding: 70px;
+	font-family: Montserrat;
+}
+section h3 a{
+	color: #ff0000;
+}
+img{
+	height: 450px;
+	width: 550px;
+	padding: 30px;
+	margin: 50px;
+}
+header{
+	background-color: black;
+	color: white;
+	padding: 60px;
+	font-family: Montserrat;
+}
+.contactme{
+	background-color: white;
+	color: black;
+	padding: 17px;
+
+}
+footer h3{
+	float: right;
+	font-family: Montserrat;
+	padding: 40px;
+	display: inline-block;
+}
+footer a img{
+	height: 90px;
+	width: 90px;
+	margin: 0px;
+}
+h1{
+	font-family: Montserrat;
+}
+.aboutpage pre{
+	display: inline-block;
+	float: right;
+	font-family: Montserrat;
+}
+.button{
+	background-color:black;
+	padding: 100px;
+}
+.button a{
+	color: black;
+	background-color: white;
+	padding: 17px;
+}
+.button h1{
+	color: white;
+	font-size: 40px;
+}
+.aboutpage img{
+	padding: 0px;
+	margin: 0px;
+}
+.aboutpage{
+	display: inline-block;
+}
+.designer{
+	background-image: url(images/graphic designer.jpg);
+}
+div img{
+	width: 400px;
+	height: 400px;
+	margin: 0;
+	padding: 30px;
+}
+div h1{
+	padding: 30px;
+}
+div h1 a{
+	color: black;
+}
+.manipulations{
+	width: 600px;
+	height: 600px;
+	padding: 50px;
+}
+.sec1{
+	background-color: black;
+	overflow: hidden;
+	color: white;
+	padding-bottom: 90px;
+	padding-top: 90px;
+	font-family: Montserrat;
+}
+.info{
+	width: 40%;
+	float: left;
+}
+.form{
+	width: 50%;
+	float: right;
+}
+.sec1 h2,.paragraph,h5,address{
+	margin-left: 50px;
+}
+.sec1 p{
+	line-height: 1.7;
+}
+.sec1 h2{
+	font-size: 45px;
+	padding-bottom: 20px;
+}
+.form label{
+	display: block;
+	margin: 10px 0px;
+}
+.sec1 .info .line{
+	padding: 17px;
+	padding-left: 0px;
+}
+.sec1 h5{
+	margin-bottom: 16px;
+	margin-top: 30px;
+}
+.sec1 address{
+	padding-top: 50px;
+}
+.form input[type="text"]{
+	padding: 10px; 
+	width: 80%;
+	margin-bottom: 10px;
+}
+.form textarea{
+	padding: 10px; 
+	width: 80%;
+	margin-bottom: 10px;
+	height: 150px;
+}
+.form input[type="submit"]{
+	background-color: white;
+	color: black;
+	padding: 10px 20px;
+	border: 0;
+	display: block;
+}
+.partner{
+	width: 50%;
+	margin: auto;
+}
+.partner h2{
+	font-family: Montserrat;
+}
+.partner a img{
+	width: 200px;
+	height: 200px;
+	padding: 0;
+}
+.inss{
+	text-decoration: underline;
+}
+.Graphic_designer h1{
+	padding: 20px;
+}
+.Graphic_designer h2{
+	text-decoration: underline;
+}
